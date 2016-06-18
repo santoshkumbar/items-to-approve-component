@@ -1,4 +1,4 @@
-var componentName = 'HereIsYourComponentName';
+var componentName = 'ItemsToApproval';
 
 var gulp = require('gulp');
 var zip = require('gulp-zip');

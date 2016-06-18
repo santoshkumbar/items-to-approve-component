@@ -1,5 +1,5 @@
 {
-  "name": "YourLightningComponentName",
+  "name": "items-to-approve-component",
   "version": "1.0.0",
   "description": "Template for Lightning Component Development",
   "main": "index.js",
